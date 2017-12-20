@@ -3,6 +3,6 @@ ktconfig = {
 	"smtp_server" : "smtp.qq.com",#smtp server default:smtp.qq.com
 	"smtp_port" : 465,#smtp server port
 	"from_addr" : "123456@qq.com", #username
-	"password": "password",#password,授权码
+	"password": "password",#password,
 	"mail_ssl" : True
 }
